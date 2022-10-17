@@ -18,3 +18,4 @@
 ##### - Validando a mensagem de erro
 ##### 4) Desenvolvimento da automação com base nos cenários de testes identificados anteriormente
 ##### 5) Respondendo dúvidas
+##### 6) [LinkedIn](https://www.linkedin.com/in/mrk-silva/) para contato
