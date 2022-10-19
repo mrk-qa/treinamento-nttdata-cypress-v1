@@ -9,9 +9,9 @@
 ## 🔖 Requisitos
 
 - [Node.js] - Plataforma de desenvolvimento
-- [VSCode] - IDE
+- [Visual Studio Code] - IDE
 
-## Etapas:
+## ✅ Etapas:
 
 ##### 1) Apresentação do [Cypress](https://www.cypress.io/)
 ##### 2) Demonstração do site [Sauce Demo](https://www.saucedemo.com)
