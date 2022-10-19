@@ -1,6 +1,8 @@
-<img width="200px" align="left" src="https://i.ibb.co/qnhR4sx/2560px-NTT-Data-Logo.png" alt="2560px-NTT-Data-Logo" border="0">
-
 # Treinamento para QAs interassados em automação de testes utilizando Cypress - Básico 🍀
+
+<h1 align="left">
+    <img width="300px" src="https://i.ibb.co/qnhR4sx/2560px-NTT-Data-Logo.png" alt="2560px-NTT-Data-Logo">
+</h1>
 
 ### Esse repositório tem como objetivo otimizar os conhecimentos do treinamento de Cypress disponibilizado pela [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/mycompany/)
 
