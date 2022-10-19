@@ -1,4 +1,4 @@
-# Treinamento para QAs - Automação de Testes utilizando Cypress - Básico 🍀
+# Treinamento para QAs - Automação de Testes utilizando Cypress - Básico 🚀
 
 <h1 align="left">
     <img width="300px" src="https://i.ibb.co/qnhR4sx/2560px-NTT-Data-Logo.png" alt="2560px-NTT-Data-Logo">
