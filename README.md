@@ -30,4 +30,4 @@
 
 ---
 
-Feito com 💙 &nbsp;por Marco Antonio 👋 &nbsp;[Meu linkedin](https://www.linkedin.com/in/mrk-silva/)
+Feito com 💙 &nbsp;por Marco Antonio 👋 &nbsp;[Meu linkedIn](https://www.linkedin.com/in/mrk-silva/)
