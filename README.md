@@ -18,12 +18,12 @@
 ##### 2) Apresentação desse repositório
 ##### 3) Explorando o site [Sauce Demo](https://www.saucedemo.com)
 ##### 4) Criando os casos de teste
-- [ ]  ###### Deve realizar login com sucesso
-- [ ]  ###### Deve exibir mensagem de erro ao realizar login com USUÁRIO INVÁLIDO
-- [ ]  ###### Deve exibir mensagem de erro ao realizar login com SENHA INVÁLIDA
-- [ ]  ###### Deve adicionar produtos ao carrinho
-- [ ]  ###### Deve realizar uma compra com sucesso
-- [ ]  ###### [EXTRA] Deve validar a cor e a fonte do botão de login (+ instalação da lib [rgb-hex](https://www.npmjs.com/package/rgb-hex) para converter as cores no padrão hex)
+- [ ] ###### Deve realizar login com sucesso
+- [ ] ###### Deve exibir mensagem de erro ao realizar login com USUÁRIO INVÁLIDO
+- [ ] ###### Deve exibir mensagem de erro ao realizar login com SENHA INVÁLIDA
+- [ ] ###### Deve adicionar produtos ao carrinho
+- [ ] ###### Deve realizar uma compra com sucesso
+- [ ] ###### [EXTRA] Deve validar a cor e a fonte do botão de login (+ instalação da lib [rgb-hex](https://www.npmjs.com/package/rgb-hex) para converter as cores no padrão hex)
 ##### 4) Hands-on desenvolvendo a automação com base nos casos de testes identificados
 ##### 5) Respondendo as dúvidas
 
