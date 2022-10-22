@@ -8,25 +8,24 @@
 
 ## 🔖 Requisitos
 
-- [Node.js] - Plataforma de desenvolvimento
-- [Visual Studio Code] - IDE
+- [Node.js] - versão 16+
+- [Visual Studio Code] - versão 1.60+
+- [Git] - 2.35+
 
 ## ✅ Etapas:
 
 ##### 1) Apresentação do [Cypress](https://www.cypress.io/)
-##### 2) Demonstração do site [Sauce Demo](https://www.saucedemo.com)
-##### 3) Explorando o site e identificando os possíveis cenários de testes na tela de **Login**
-###### - Realizar login com sucesso
-###### - Validar atributo type do input **username**
-###### - Validar atributo type do input **password**
-###### - Validar botão de login
-###### - Validar cor do botão de login (+ instalação de biblioteca para identificação de cor)
-###### - Realizar login sem sucesso (login errado)
-###### - Validando a mensagem de erro
-###### - Realizar login sem sucesso (senha errada)
-###### - Validando a mensagem de erro
-##### 4) Desenvolvimento da automação com base nos cenários de testes identificados anteriormente
-##### 5) Respondendo dúvidas
+##### 2) Apresentação desse repositório
+##### 3) Explorando o site [Sauce Demo](https://www.saucedemo.com)
+##### 4) Criando os casos de teste
+- [ ]  ###### Deve realizar login com sucesso
+- [ ]  ###### Deve exibir mensagem de erro ao realizar login com USUÁRIO INVÁLIDO
+- [ ]  ###### Deve exibir mensagem de erro ao realizar login com SENHA INVÁLIDA
+- [ ]  ###### Deve adicionar produtos ao carrinho
+- [ ]  ###### Deve realizar uma compra com sucesso
+- [ ]  ###### [EXTRA] Deve validar a cor e a fonte do botão de login (+ instalação da lib [rgb-hex](https://www.npmjs.com/package/rgb-hex) para converter as cores no padrão hex)
+##### 4) Hands-on desenvolvendo a automação com base nos casos de testes identificados
+##### 5) Respondendo as dúvidas
 
 ---
 
