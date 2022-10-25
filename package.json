@@ -1,0 +1,23 @@
+{
+  "name": "treinamento-nttdata-cypress-v1",
+  "version": "1.0.0",
+  "description": "<h1 align=\"left\">\r     <img width=\"300px\" src=\"https://i.ibb.co/qnhR4sx/2560px-NTT-Data-Logo.png\" alt=\"2560px-NTT-Data-Logo\">\r </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrk-qa/treinamento-nttdata-cypress-v1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrk-qa/treinamento-nttdata-cypress-v1/issues"
+  },
+  "homepage": "https://github.com/mrk-qa/treinamento-nttdata-cypress-v1#readme",
+  "devDependencies": {
+    "cypress": "10.8"
+  }
+}

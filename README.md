@@ -18,7 +18,7 @@
 ##### 2) Apresentação desse repositório
 ##### 3) Explorando o site [Sauce Demo](https://www.saucedemo.com)
 ##### 4) Criando os casos de teste
-- [ ] Deve realizar login com sucesso
+- [x] Deve realizar login com sucesso
 - [ ] Deve exibir mensagem de erro ao realizar login com USUÁRIO INVÁLIDO
 - [ ] Deve exibir mensagem de erro ao realizar login com SENHA INVÁLIDA
 - [ ] Deve adicionar produtos ao carrinho
