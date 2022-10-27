@@ -35,8 +35,6 @@ Em seguida, execute `npx cypress open` para abrir a interface do Cypress ou exec
 ##### 4) Hands-on desenvolvendo a automação com base nos casos de testes identificados
 ##### 5) Respondendo as dúvidas
 
-
-
 <p align="center">Abaixo uma recordação dos participantes do treinamento 💙</p>
 <p align="center">Treinamento realizado em 25 e 26 de Outubro/2022.</p>
 
@@ -44,8 +42,6 @@ Em seguida, execute `npx cypress open` para abrir a interface do Cypress ou exec
     <img width="600px" src="https://i.ibb.co/dWWM67Z/treinamento-ntt-cypress-v1.jpg" alt="treinamento-ntt-cypress-v1">
 </h4>
 
-
-    
 ## 🔮 Apoie este projeto
 
 Se você deseja apoiar este projeto, deixe um ⭐.
