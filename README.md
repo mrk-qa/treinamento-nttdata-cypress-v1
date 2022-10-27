@@ -38,7 +38,8 @@ Em seguida, execute `npx cypress open` para abrir a interface do Cypress ou exec
 <p align="center">Abaixo uma recordação dos participantes do treinamento 💙</p>
 <p align="center">Treinamento realizado em 25 e 26 de Outubro/2022.</p>
 
-<a width="600px" align="center" href="https://ibb.co/DVVWkLd"><img src="https://i.ibb.co/dWWM67Z/treinamento-ntt-cypress-v1.jpg" alt="treinamento-ntt-cypress-v1"></a>
+<div align="center"><img width="600px"  src="https://user-images.githubusercontent.com/102618854/198168272-1e976b57-8f36-4087-a67b-d6f4db5d21b2.jpg">
+</div>
 
 ## 🔮 Apoie este projeto
 
