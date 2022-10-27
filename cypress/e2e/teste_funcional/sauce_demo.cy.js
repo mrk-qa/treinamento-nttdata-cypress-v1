@@ -98,7 +98,7 @@ describe('Teste funcional no site saucedemo.com', () => {
     cy.get('.complete-header').scrollIntoView({ duration: 1000 }).should('have.text', 'THANK YOU FOR YOUR ORDER')
   })
 
-  it('[EXTRA] Validando a cor e a fonte do botão', () => {
+  it('[EXTRA] Validando a cor e a fonte do botão de "Login"', () => {
     cy.get('[data-test="login-button"]').invoke('css', 'background-color')
       .then((bgcolor) => {
         expect(rgbHex(bgcolor)).to.eq('e2231a')
