@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mrk-qa/treinamento-nttdata-cypress-v1#readme",
   "devDependencies": {
-    "cypress": "10.8"
+    "cypress": "10.8",
+    "rgb-hex": "^4.0.0"
   }
 }

@@ -1,5 +1,7 @@
 # Treinamento para QAs - Automação de Testes utilizando Cypress - Básico 🚀
 
+
+
 <h1 align="left">
     <img width="300px" src="https://i.ibb.co/qnhR4sx/2560px-NTT-Data-Logo.png" alt="2560px-NTT-Data-Logo">
 </h1>
@@ -25,17 +27,28 @@ Em seguida, execute `npx cypress open` para abrir a interface do Cypress ou exec
 ##### 3) Explorando o site alvo dos testes [Sauce Demo](https://www.saucedemo.com)
 ##### 4) Criando os casos de teste
 - [x] Deve realizar login com sucesso
-- [ ] Deve exibir mensagem de erro ao realizar login com USUÁRIO INVÁLIDO
-- [ ] Deve exibir mensagem de erro ao realizar login com SENHA INVÁLIDA
-- [ ] Deve adicionar produtos ao carrinho
-- [ ] Deve realizar uma compra com sucesso
-- [ ] [EXTRA] Deve validar a cor e a fonte do botão de login (+ instalação da lib [rgb-hex](https://www.npmjs.com/package/rgb-hex) para converter as cores no padrão hex)
+- [x] Deve exibir mensagem de erro ao realizar login com USUÁRIO INVÁLIDO
+- [x] Deve exibir mensagem de erro ao realizar login com SENHA INVÁLIDA
+- [x] Deve adicionar produtos ao carrinho
+- [x] Deve realizar uma compra com sucesso
+- [x] [EXTRA] Deve validar a cor e a fonte do botão de login (+ instalação da lib [rgb-hex](https://www.npmjs.com/package/rgb-hex) para converter as cores no padrão hex)
 ##### 4) Hands-on desenvolvendo a automação com base nos casos de testes identificados
 ##### 5) Respondendo as dúvidas
 
+
+
+<p align="center">Abaixo uma recordação dos participantes do treinamento 💙</p>
+<p align="center">Treinamento realizado em 25 e 26 de Outubro/2022.</p>
+
+<h4 align="center">
+    <img width="600px" src="https://i.ibb.co/dWWM67Z/treinamento-ntt-cypress-v1.jpg" alt="treinamento-ntt-cypress-v1">
+</h4>
+
+
+    
 ## 🔮 Apoie este projeto
 
-Se você deseja apoiar este projeto, deixe um⭐.
+Se você deseja apoiar este projeto, deixe um ⭐.
 
 ---
 
