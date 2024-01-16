@@ -3,7 +3,7 @@
 
 
 <h1 align="left">
-    <img width="300px" src="https://i.ibb.co/qnhR4sx/2560px-NTT-Data-Logo.png" alt="2560px-NTT-Data-Logo">
+    <img width="300px" src="https://github.com/mrk-qa/treinamento-nttdata-cypress-v1/blob/364f025b42d3ba6a5c82502f3dee12e13058d945/assets/ntt_logo.png" alt="2560px-NTT-Data-Logo">
 </h1>
 
 #### Esse repositório tem como objetivo otimizar os conhecimentos do treinamento de Cypress disponibilizado pela [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/mycompany/)
@@ -38,7 +38,7 @@ Em seguida, execute `npx cypress open` para abrir a interface do Cypress ou exec
 <p align="center">Abaixo uma recordação dos participantes do treinamento 💙</p>
 <p align="center">Treinamento realizado em 25 e 26 de Outubro/2022.</p>
 
-<div align="center"><img width="600px"  src="https://user-images.githubusercontent.com/102618854/198168272-1e976b57-8f36-4087-a67b-d6f4db5d21b2.jpg">
+<div align="center"><img width="800px"  src="https://github.com/mrk-qa/treinamento-nttdata-cypress-v1/blob/364f025b42d3ba6a5c82502f3dee12e13058d945/assets/treinamento-nttdata-cypress-v1.jpg">
 </div>
 
 ## 🔮 Apoie este projeto
